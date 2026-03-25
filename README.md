@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**VzGabo/VzGabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hola, soy Gabriel!** 👋🏻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gonzalez-alzualde/)
+[![Instagram](https://img.shields.io/badge/instagram-d2208a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielg.develop)
+
+## 🧮 Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielgdevelop&theme=highcontrast&hide_border=true&locale=es&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+## 🚀 Sobre mí
+Soy un desarrollador full stacker... Si, la pasión te lleva a indagar más de la cuenta.
+
+
+## ⚒️Tecnologías
+
+**Cliente:** React, TailwindCSS y Bootstrap, 
+
+**Servidor:** Laravel y PostgreSQL.
+
