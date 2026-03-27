@@ -6,6 +6,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gonzalez-alzualde/)
 [![Instagram](https://img.shields.io/badge/instagram-d2208a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielg.develop)
+[![Youtube](https://img.shields.io/badge/youtube-d2208a?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@gabrielg.develop)
 
 ## 🧮 Github Stats
 
