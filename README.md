@@ -12,12 +12,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielgdevelop&theme=highcontrast&hide_border=true&locale=es&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ## 🚀 Sobre mí
-Soy un desarrollador full stacker... Si, la pasión te lleva a indagar más de la cuenta.
+Soy desarrollador full stacker... Si, la pasión te lleva a indagar más de la cuenta.
 
 
 ## ⚒️Tecnologías
 
-**Cliente:** React, TailwindCSS y Bootstrap, 
+**Cliente:** HTML, CSS, JavaScript, React, TailwindCSS y Bootstrap, 
 
-**Servidor:** Laravel y PostgreSQL.
+**Servidor:** Laravel, MySQL y PostgreSQL.
 
