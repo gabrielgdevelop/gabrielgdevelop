@@ -19,5 +19,5 @@ Soy desarrollador full stacker... Si, la pasión te lleva a indagar más de la c
 
 **Cliente:** HTML, CSS, JavaScript, React, TailwindCSS y Bootstrap, 
 
-**Servidor:** Laravel, MySQL y PostgreSQL.
+**Servidor:** Laravel, GIT, MySQL y PostgreSQL.
 
